@@ -1,0 +1,7 @@
+E:\KULIAH\Semester4\Antar Muka\Program\P3\AquaGauge\Code\bin\Debug\AquaGauge.dll
+E:\KULIAH\Semester4\Antar Muka\Program\P3\AquaGauge\Code\bin\Debug\AquaGauge.pdb
+E:\KULIAH\Semester4\Antar Muka\Program\P3\AquaGauge\Code\obj\Debug\AquaGauge.csprojResolveAssemblyReference.cache
+E:\KULIAH\Semester4\Antar Muka\Program\P3\AquaGauge\Code\obj\Debug\AquaControls.AquaGauge.resources
+E:\KULIAH\Semester4\Antar Muka\Program\P3\AquaGauge\Code\obj\Debug\AquaGauge.csproj.GenerateResource.Cache
+E:\KULIAH\Semester4\Antar Muka\Program\P3\AquaGauge\Code\obj\Debug\AquaGauge.dll
+E:\KULIAH\Semester4\Antar Muka\Program\P3\AquaGauge\Code\obj\Debug\AquaGauge.pdb
